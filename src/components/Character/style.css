@@ -1,0 +1,14 @@
+.char {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.info {
+    border: 2px solid #ffff00;
+    color: #feffbd;
+}
+
+.img {
+    border: 3px solid #ffffff;
+}
